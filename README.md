@@ -1,4 +1,4 @@
-# NLP_Update
+# NLP Updates
 - **Hands-on NLP model review** - https://www.quora.com/q/handsonnlpmodelreview
   - Maximizing BERT model performance (by Ajit Rajasekharan) - 
     - Quora - https://www.quora.com/q/handsonnlpmodelreview
