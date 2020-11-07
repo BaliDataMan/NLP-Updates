@@ -1,1 +1,15 @@
 # NLP_Update
+- Hands-on NLP model review - https://www.quora.com/q/handsonnlpmodelreview
+  - Maximizing BERT model performance (by Ajit Rajasekharan) - 
+    - Quora - https://www.quora.com/q/handsonnlpmodelreview
+    - Medium - https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab
+    - Ajit Rajasekharan quora articles - https://www.quora.com/profile/Ajit-Rajasekharan
+  - Stanford MLSys Seminar Series - https://mlsys.stanford.edu/ or https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ
+    - Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
+    - Machine Learning at Industrial Scale: Lessons from the MLflow Project
+    - On Heterogeneity in Federated Settings
+    - Principles of Good Machine Learning Systems Design (11/12/20 Chip Huyen)
+    - Programmatically Building & Managing Training Data with Snorkel (11/05/20 Alex Ratner)
+  - How to make transformer based models more robust to noise and generate quality vectors for rare and domain specific words?
+    - Quora - https://www.quora.com/q/handsonnlpmodelreview 
+    - Kalyan KS (Clinical NLP) - https://www.quora.com/profile/Kalyan-KS-1
