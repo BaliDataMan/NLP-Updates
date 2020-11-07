@@ -1,5 +1,5 @@
 # NLP_Update
-- Hands-on NLP model review - https://www.quora.com/q/handsonnlpmodelreview
+- **Hands-on NLP model review** - https://www.quora.com/q/handsonnlpmodelreview
   - Maximizing BERT model performance (by Ajit Rajasekharan) - 
     - Quora - https://www.quora.com/q/handsonnlpmodelreview
     - Medium - https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab
@@ -13,3 +13,5 @@
   - How to make transformer based models more robust to noise and generate quality vectors for rare and domain specific words?
     - Quora - https://www.quora.com/q/handsonnlpmodelreview 
     - Kalyan KS (Clinical NLP) - https://www.quora.com/profile/Kalyan-KS-1
+- **Github NLP Mines**
+  - The-NLP-Pandect - https://github.com/ivan-bilan/The-NLP-Pandect
