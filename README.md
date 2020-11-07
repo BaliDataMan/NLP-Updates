@@ -1,17 +1,19 @@
 # NLP Updates
-- **Hands-on NLP model review** - https://www.quora.com/q/handsonnlpmodelreview
-  - Maximizing BERT model performance (by Ajit Rajasekharan) - 
-    - Quora - https://www.quora.com/q/handsonnlpmodelreview
-    - Medium - https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab
-    - Ajit Rajasekharan quora articles - https://www.quora.com/profile/Ajit-Rajasekharan
-  - Stanford MLSys Seminar Series - https://mlsys.stanford.edu/ or https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ
-    - Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
-    - Machine Learning at Industrial Scale: Lessons from the MLflow Project
-    - On Heterogeneity in Federated Settings
-    - Principles of Good Machine Learning Systems Design (11/12/20 Chip Huyen)
-    - Programmatically Building & Managing Training Data with Snorkel (11/05/20 Alex Ratner)
-  - How to make transformer based models more robust to noise and generate quality vectors for rare and domain specific words?
-    - Quora - https://www.quora.com/q/handsonnlpmodelreview 
-    - Kalyan KS (Clinical NLP) - https://www.quora.com/profile/Kalyan-KS-1
+
+- [**Maximizing BERT model performance**](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab) (by Ajit Rajasekharan) - 
+
+  
+  
+- [**Stanford MLSys Seminar Series**](https://mlsys.stanford.edu/)
+  - [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList by Marco Tulio Ribeiro (10/15/20)](https://www.youtube.com/watch?v=VqiTtdY58Ts)
+  - [Machine Learning at Industrial Scale: Lessons from the MLflow Project by Matei Zaharia (10/22/20)](https://www.youtube.com/watch?v=nCQ9WqXPIS4)
+  - [On Heterogeneity in Federated Settings by Virginia Smith (10/29/20)](https://www.youtube.com/watch?v=laCyJICLyWg)
+  - Principles of Good Machine Learning Systems Design by Chip Huyen (11/12/20)
+  - Programmatically Building & Managing Training Data with Snorkel by Alex Ratner (11/05/20 )
+  
+  
+- [**CharBERT: Character-aware Pre-trained Language Model**](https://github.com/wtma/CharBERT)
+- [**CharacterBERT: Reconciling ELMo and BERT for Word-LevelOpen-Vocabulary Representations From Characters**](https://github.com/helboukkouri/character-bert)
+
 - **Github NLP Mines**
-  - The-NLP-Pandect - https://github.com/ivan-bilan/The-NLP-Pandect
+  - [The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
