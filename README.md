@@ -1,9 +1,11 @@
 # NLP Updates
 
+- **Yann LeCun's Deep learning Course - DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE**
+  - [Official Blog](https://medium.com/@NYUDataScience/yann-lecuns-deep-learning-course-at-cds-is-now-fully-online-accessible-to-all-787ddc8bf0af)
+  - [Course Material](https://atcold.github.io/pytorch-Deep-Learning/)
+
 - [**Maximizing BERT model performance**](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab) (by Ajit Rajasekharan) - 
 
-  
-  
 - [**Stanford MLSys Seminar Series**](https://mlsys.stanford.edu/)
   - [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList by Marco Tulio Ribeiro (10/15/20)](https://www.youtube.com/watch?v=VqiTtdY58Ts)
   - [Machine Learning at Industrial Scale: Lessons from the MLflow Project by Matei Zaharia (10/22/20)](https://www.youtube.com/watch?v=nCQ9WqXPIS4)
